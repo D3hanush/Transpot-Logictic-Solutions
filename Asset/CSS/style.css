@@ -634,6 +634,7 @@ nav {
 
 .mask_div {
     mask: url("/Asset/Images/download.png");
+    -webkit-mask-image: url("/Asset/Images/download.png");
     width: 570px;
     height: 580px;
     background-color: #fd5523;
@@ -2900,3 +2901,4 @@ nav {
 
 
 /* footer */
+
